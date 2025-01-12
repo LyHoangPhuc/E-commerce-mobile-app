@@ -1,0 +1,222 @@
+
+//1
+Title: "iPhone 14 Pro Max 128GB",
+Price: "26.490.000",
+Description:
+"iPhone 14 Pro Max sở hữu màn hình Super Retina XDR 6.7 inch với độ phân giải cao, mang đến hình ảnh sắc nét và màu sắc sống động."
+Quantity: "20",
+
+
+//2
+Title: "iPhone 16 Plus 256GB",
+Price: "29.990.000",
+Description:
+"iPhone 16 Plus sở hữu màn hình Super Retina XDR 6.7 inch, cho hình ảnh sắc nét và màu sắc chân thực."
+Quantity: "15",
+
+//3
+Title: "iPhone 16 Pro Max 256GB",
+Price: "34.990.000",
+Description:
+"Máy được trang bị hệ thống camera ấn tượng với camera chính 48MP, camera góc rộng 12MP và camera tele 12MP."
+Quantity: "17",
+
+//4
+Title: "Samsung Galaxy A25 5G",
+Price: "8.490.000",
+Description:
+"Galaxy A25 5G trang bị màn hình Super AMOLED 6.5 inch với độ phân giải Full HD+, mang đến hình ảnh sắc nét và màu sắc sống động."
+Quantity: "7",
+
+//5
+Title: "Samsung Galaxy A55 5G",
+Price: "9.690.000",
+Description:
+"Galaxy A55 5G trang bị màn hình Super AMOLED 6.4 inch với độ phân giải Full HD+, mang đến hình ảnh sắc nét, màu sắc sống động và độ tương phản cao."
+Quantity: "8",
+
+//6
+Title: "Samsung Galaxy M55 5G",
+Price: "11.190.000",
+Description:
+"Galaxy M55 5G trang bị màn hình AMOLED 6.5 inch với độ phân giải Full HD+, mang đến hình ảnh sắc nét và màu sắc sống động.."
+Quantity: "8",
+
+//7
+Title: "Samsung Galaxy S24+ 5G",
+Price: "21.990.000",
+Description:
+"Galaxy S24+ 5G trang bị màn hình Dynamic AMOLED 2X 6.7 inch với độ phân giải QHD+ (1440 x 3200 pixel). "
+Quantity: "9",
+
+//8
+Title: "Laptop Acer Aspire Lite 14 51M 59BN",
+Price: "13.490.000",
+Description:
+"Laptop Acer Aspire Lite 14 51M 59BN là một trong những mẫu laptop tầm trung của Acer, được thiết kế để đáp ứng nhu cầu học tập, làm việc và giải trí. "
+Quantity: "9",
+
+//9 
+Title: "Laptop Acer Gaming Nitro 5 Tiger AN515 58 52SP",
+Price: "19.490.000",
+Description:
+"Laptop Acer Gaming Nitro 5 Tiger AN515 58 52SP là một trong những mẫu laptop gaming nổi bật của Acer, được thiết kế cho những game thủ và người dùng cần hiệu suất cao."
+Quantity: "5",
+
+//10
+Title: "Laptop Dell Inspiron 15 3520",
+Price: "16.390.000",
+Description:
+"Laptop Dell Inspiron 15 3520 là một mẫu laptop tầm trung được thiết kế để phục vụ nhu cầu học tập, làm việc và giải trí."
+Quantity: "5",
+
+//11
+Title: "Laptop Dell Vostro 3530",
+Price: "18.390.000",
+Description:
+"Laptop Dell Vostro 3530 là một mẫu laptop được thiết kế chủ yếu cho doanh nhân và người dùng cần hiệu suất ổn định cho công việc."
+Quantity: "7",
+
+//12
+Title: "Pin sạc dự phòng Polymer 20000mAh Type C 10.5W AVA+ G-DX258 kèm Cáp Lightning và Cáp Type C",
+Price: "480.000",
+Description:
+"Đèn LED báo hiệu Kèm cáp Type C, cáp Lightning, cáp USB"
+Quantity: "7",
+
+//13
+Title: "Pin sạc dự phòng Polymer 10000mAh 10.5W AVA",
+Price: "250.000",
+Description:
+"Thiết kế nhẹ và dễ dàng cầm nắm.
+Dung lượng lớn giúp sạc nhiều lần cho thiết bị di động.
+Tốc độ sạc nhanh và an toàn."
+Quantity: "7",
+
+
+//14
+Title: "Cáp Lightning 1m AVA+ JXL-08",
+Price: "105.000",
+Description:
+"Thiết kế đẹp mắt, vỏ dây chất liệu nylon bền chắc.
+Chiều dài dây 1 m, dễ quấn gọn, không sợ nứt gãy, tiện mang theo.
+Trang bị 1 đầu Lightning và 1 đầu USB, dùng tốt với nhiều thiết bị."
+Quantity: "7",
+
+//15
+Title: "Cáp Type C 1m Ugreen 60126",
+Price: "70.000",
+Description:
+"Thiết kế đẹp mắt, vỏ dây chất liệu nylon bền chắc.
+Chiều dài dây 1 m, dễ quấn gọn, không sợ nứt gãy, tiện mang theo.
+Trang bị 1 đầu type C và 1 đầu USB, dùng tốt với nhiều thiết bị."
+Quantity: "8",
+
+//16
+Title: "Cáp Type C - Lightning MFi 0.9m Anker 542 Bio A80B1",
+Price: "315.000",
+Description:
+"Thiết kế đẹp mắt, vỏ dây chất liệu nylon bền chắc.
+Chiều dài dây 1 m, dễ quấn gọn, không sợ nứt gãy, tiện mang theo.
+Trang bị 1 đầu type C và 1 đầu Lightning, dùng tốt với nhiều thiết bị."
+Quantity: "9",
+
+//17
+Title: "Tai nghe Wiwu T22",
+Price: "700.000",
+Description:
+"
+- Công nghệ chống ồn ANC
+- Khoảng cách kết nối hơn 10m
+- Dung lượng pin tai nghe: 30mAh
+- Dung lượng pin case: 300mAh
+- Thời gian nghe nhạc: 3-4 giờ
+"
+Quantity: "4",
+
+//18
+Title: "Tai nghe Có dây EP Type C Xiaomi",
+Price: "150.000",
+Description:
+"Tăng/giảm âm lượng
+Phát/dừng chơi nhạc
+Chuyển bài hát
+Nhận/Ngắt cuộc gọi."
+Quantity: "5",
+
+//19
+Title: "Đồng hồ thông minh BeFit Sporty 2 44.5mm",
+Price: "890.000",
+Description:
+"Theo dõi nhịp tim
+Đo bước chân, khoảng cách và calo tiêu thụ
+Theo dõi giấc ngủ
+Chế độ thể thao đa dạng (chạy bộ, đạp xe, bơi lội, v.v.)"
+Quantity: "6",
+
+//20
+Title: "Đồng hồ thông minh Samsung Galaxy Watch5 40mm",
+Price: "2.990.000",
+Description:
+"Theo dõi nhịp tim và mức oxy trong máu
+Đo điện tâm đồ (ECG)
+Theo dõi giấc ngủ và stress
+Chế độ thể thao đa dạng (chạy bộ, đạp xe, bơi lội, v.v.)
+Tính năng GPS tích hợp"
+Quantity: "8",
+
+//21
+Title: "Đồ bộ thể thao nam",
+Price: "250.000",
+Description:
+"Đồ bộ thể thao nam mặc hè xuyên biên giới, Chất thun cotton thấm hút mồ hôi cực tốt Kiểu dáng Slim Fit siêu đẹp DB37"
+Quantity: "25",
+
+//22
+Title: "Đồ bộ nam chất thun",
+Price: "200.000",
+Description:
+"Đồ bộ nam chất thun lạnh in Ice Ice đường ray cực đẹp, kiểu dáng slim fit đơn giản mặc đẹp mọi lứa tuồi DB40"
+Quantity: "15",
+
+//23
+Title: "Giày thể thao snaeker nam",
+Price: "400.000",
+Description:
+"Giày thể thao snaeker nam Giày Thể Thao Nam Vải Lưới Thoáng Khí Phối Sọc Đế Mêm Êm Chân"
+Quantity: "15",
+
+//24
+Title: "Giày thể thao nam",
+Price: "400.000",
+Description:
+"Giày thể thao nam, đi bộ, đi thể dục đánh bóng chuyền Siêu êm chân "
+Quantity: "10",
+
+//25
+Title: "Truyện tranh Komi - Nữ Thần Sợ Giao Tiếp tập 25",
+Price: "25.000",
+Description:
+"Truyện tranh Komi - Nữ Thần Sợ Giao Tiếp tập 25"
+Quantity: "20",
+
+//26
+Title: "Sách - Combo 2 cuốn Tư Duy Ngược + Tư Duy Mở",
+Price: "115.000",
+Description:
+"Sách - Combo 2 cuốn Tư Duy Ngược + Tư Duy Mở - Nguyễn Anh Dũng"
+Quantity: "20",
+
+//27
+Title: "Truyện Tranh - Thám Tử Lừng Danh Conan Trọn Bộ 100 Tập",
+Price: "1.640.000",
+Description:
+"Truyện Tranh - Thám Tử Lừng Danh Conan Trọn Bộ 100 Tập - NXB Kim Đồng"
+Quantity: "5",
+
+//28
+Title: "Set trang điểm Hanru 4 món tiện dụng",
+Price: "60.000",
+Description:
+"Bộ Sản Phẩm Kem Nền trang điểm MSMEESHU Gồm 4 Món Đa Năng Tiện Dụng"
+Quantity: "2",
